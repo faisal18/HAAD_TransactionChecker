@@ -24,6 +24,7 @@ namespace HAAD_TransactionChecker
             int transactionType = 8;// RA
 
 
+
             try
             {
                 username = System.Configuration.ConfigurationManager.AppSettings.Get("username");
